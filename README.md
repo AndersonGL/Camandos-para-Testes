@@ -1,6 +1,3 @@
-# Camandos-para-Testes
-
-
 # 🧪 Testes Automatizados em Next.js
 
 Este projeto utiliza diferentes estratégias de testes para garantir qualidade, confiabilidade e estabilidade da aplicação.
